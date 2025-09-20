@@ -57,6 +57,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 🙌 Acknowledgments
 
-* Inspired by \[insert inspiration here]
+* Inspired by some of the malfunctioning lms and learning trackers.
 * Built for my second semester project
 
